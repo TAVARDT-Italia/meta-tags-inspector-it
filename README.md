@@ -1,14 +1,13 @@
 # Ispettore di Meta Tag e Open Graph | TAVARDT Italia
 
 [![Ispettore Meta Tag](https://img.shields.io/badge/TAVARDT-Meta%20Tag-5b3cf5.svg)](https://tools.tavardt.com/it/analisi-meta-tag-seo/)
-[![Giurisdizione](https://img.shields.io/badge/Giurisdizione-Italia-00C853.svg)](https://ag.tavardt.com/it/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Verifica tecnica dei metadati HTML, analisi della lunghezza di title e meta description, anteprima dei social card e direttive di indicizzazione.
 
-Sviluppato e gestito dalla divisione di ottimizzazione tecnica e dati web di **[TAVARDT Italia](https://ag.tavardt.com/it/)**.
+Sviluppato e gestito dalla divisione di ottimizzazione tecnica e dati web di **TAVARDT Italia**.
 
----
+***
 
 ## Funzionalita dell'Audit dei Metadati e Social Card
 
@@ -18,7 +17,7 @@ Sviluppato e gestito dalla divisione di ottimizzazione tecnica e dati web di **[
 * **Direttive di Indicizzazione**: Monitoraggio di meta robots (noindex, nofollow) e presenza del link canonical.
 * **Indice di Qualita dello Snippet**: Punteggio quantitativo da 0 a 100 con istruzioni pratiche di bonifica.
 
----
+***
 
 ## Installazione ed Esecuzione
 
@@ -33,20 +32,20 @@ python meta_inspector.py esempio.it
 Per l'output in formato JSON:
 
 ```bash
-python meta_inspector.py esempio.it --json
+python meta_inspector.py esempio.it -json
 ```
 
----
+***
 
 ## Piattaforma di Diagnosi Online
 
 Per simulare e testare in tempo reale i social card e le anteprime di ricerca:
 
-* **[Ispettore di Meta Tag Ufficiale](https://tools.tavardt.com/it/analisi-meta-tag-seo/)**
+* **Ispettore di Meta Tag Ufficiale**
 * **[Portale Aziendale TAVARDT Italia](https://ag.tavardt.com/it/)**
 
----
+***
 
 ## Consulenza in SEO Tecnico e Visibilita Web
 
-Per progetti dedicati di ottimizzazione semantica in conformita con Standard W3C e Buone Pratiche SEO, contattare **[TAVARDT Italia](https://ag.tavardt.com/it/contatti/)**.
+Per progetti dedicati di ottimizzazione semantica in conformita con Standard W3C e Buone Pratiche SEO, contattare **TAVARDT Italia**.
