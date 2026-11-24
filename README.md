@@ -1,4 +1,4 @@
-# Ispettore di Meta Tag e Open Graph | TAVARDT Italia
+# Ispettore di Meta Tag e Open Graph
 
 [![Ispettore Meta Tag](https://img.shields.io/badge/TAVARDT-Meta%20Tag-5b3cf5.svg)](https://tools.tavardt.com/it/analisi-meta-tag-seo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Per simulare e testare in tempo reale i social card e le anteprime di ricerca:
 ## Consulenza in SEO Tecnico e Visibilita Web
 
 Per progetti dedicati di ottimizzazione semantica in conformita con Standard W3C e Buone Pratiche SEO, contattare **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
