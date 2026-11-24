@@ -5,7 +5,7 @@
 
 Verifica tecnica dei metadati HTML, analisi della lunghezza di title e meta description, anteprima dei social card e direttive di indicizzazione.
 
-Sviluppato e gestito dalla divisione di ottimizzazione tecnica e dati web di **TAVARDT Italia**.
+Sviluppato e gestito dalla divisione di ottimizzazione tecnica e dati web di **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python meta_inspector.py esempio.it -json
 Per simulare e testare in tempo reale i social card e le anteprime di ricerca:
 
 * **Ispettore di Meta Tag Ufficiale**
-* **[Portale Aziendale TAVARDT Italia](https://ag.tavardt.com/it/)**
+* **[Portale Aziendale TAVARDT](https://ag.tavardt.com/it/)**
 
 ***
 
 ## Consulenza in SEO Tecnico e Visibilita Web
 
-Per progetti dedicati di ottimizzazione semantica in conformita con Standard W3C e Buone Pratiche SEO, contattare **TAVARDT Italia**.
+Per progetti dedicati di ottimizzazione semantica in conformita con Standard W3C e Buone Pratiche SEO, contattare **TAVARDT**.
 
 ***
 
