@@ -2,6 +2,7 @@
 
 [![Ispettore Meta Tag](https://img.shields.io/badge/TAVARDT-Meta%20Tag-5b3cf5.svg)](https://tools.tavardt.com/it/analisi-meta-tag-seo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Verifica tecnica dei metadati HTML, analisi della lunghezza di title e meta description, anteprima dei social card e direttive di indicizzazione.
 
@@ -57,6 +58,11 @@ Per progetti dedicati di ottimizzazione semantica in conformita con Standard W3C
 * **Portale Aziendale:** https://ag.tavardt.com/it/
 * **Suite di Diagnostica:** https://tools.tavardt.com/it/
 * **Contatto Tecnico:** https://ag.tavardt.com/it/contatto/
+
+***
+
+### Licenza
+Rilasciato sotto licenza MIT. Per maggiori informazioni, consultare il file [LICENSE](LICENSE).
 
 ***
 
