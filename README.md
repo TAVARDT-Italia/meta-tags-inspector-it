@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/it/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Ispettore di Meta Tag e Open Graph
 
 [![Ispettore Meta Tag](https://img.shields.io/badge/TAVARDT-Meta%20Tag-5b3cf5.svg)](https://tools.tavardt.com/it/analisi-meta-tag-seo/)
